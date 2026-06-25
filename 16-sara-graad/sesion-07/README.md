@@ -4,10 +4,10 @@
 Bucle: objeto cuyo forma recuerda la del bucle
 Rae: informatica, serie de instrucciones que se reoiten idefinidamente mientras no se cumpla una condicion previamente establecida.
 
-*loop*
+**loop**  
 es una estructura de control que permite ejecutar un bloque de instruccioes de manera repetida mientras se cumpla una condicion especifica o hasta que se alcance un estado determinado.  
 
-#While#
+**While**  
 3 elementos  
 los bucles while son utiles para repetir instrucciones mientras una condicion sea verdadera. son como sentencias if
 While ( condicion booleana) {ejecuta este codigo si es true}  
@@ -15,7 +15,7 @@ While ( condicion booleana) {ejecuta este codigo si es true}
 while(x < = height) {x = x + 1}
 ...  
 
-**for**
+**for**  
 Una forma de repetir un bloque de código cuando se conoce el número de iteraciones. Los bucles `for` son útiles para repetir instrucciones un
 número determinado de veces.
 Son una especie de SHORTCUT para hacer loops y siempre tienen 4 elementos:
@@ -28,4 +28,17 @@ Son una especie de SHORTCUT para hacer loops y siempre tienen 4 elementos:
 ejemplo: 
 for (inicialización variable; condición booleana; actualización){Lo que queremos que pase cuando la condición sea verdadera}
 
-for (let x=0 ; x <= width; x=x+1) {ellipse (x , 200, random(300))}
+for (let x=0 ; x <= width; x=x+1) {ellipse (x , 200, random(300))}  
+
+**Un for dentro de otro for**  
+for (inicialización variable; condición booleana; actualización){
+Lo que queremos que pase cuando la condición sea verdadera  
+
+for (inicialización variable; condición booleana; actualización){
+}
+Lo que queremos que pase cuando la condición sea verdadera
+
+
+  **frameCount**  
+  Variable numérica que registra la cantidad de fotogramas dibujado desde que comenzó el boceto. El valor de ´rameCount´ es 0 dentro de "setup()". Se incrementa en 1 cada vez que finaliza la ejecución del código en "draw()".
+Ejemplo: HOLA y CHAO
