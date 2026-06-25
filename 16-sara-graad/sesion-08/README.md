@@ -1,12 +1,12 @@
 # sesión 06 - 14/04
 -----
 # {Array}
-Definicion: un contenedr con compartimientos numerados donde uedes guardar multiples datos bajo un mismo nombre
-lista como un trean donde guardo datos
+Un contenedor con compartimentos numerados donde puedes guardar múltiples datos bajo un mismo nombre. Es una lista que mantiene varios datos ordenados. Los arreglos (Arrays) son muy útiles para almacenar datos relacionados y pueden contener
+datos de cualquier tipo.
 - **Sintaxis**: let nombreArray= [e0, e1, e2, e3, e4 , e5];
 - **Ejemplo** :let Colores = ["red" , "orange", "yellow", "green", "blue"];
 
-**¿Como uso los elementoa de este Array?**
+**¿Como uso los elementos de este Array?**
 Para llamar a alguno de los valores de mi Array vamos a usar: nombreArray[ n° elemento]  
 ejemplo: background (colores[1]) esto pinta el fondo de mi lienzo color anaranjado 
 
@@ -26,4 +26,5 @@ Imagínala como el plano de diseño de una casa o un molde de galletas: no es el
 - 3. Las funciones personalizadas que definen lo que hace el objeto.
 
 # Class + Array
-sistema de particulas  
+*sistema de particulas*  
+es la mezcla entre varias particulas y como estas interactuan a traves de un sistema de instrucciones ( funcion de inicio, bucles, rotaciones, eliminarlas...)
