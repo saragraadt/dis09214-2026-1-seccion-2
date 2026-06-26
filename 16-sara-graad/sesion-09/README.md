@@ -133,7 +133,7 @@ function keyPressed() {
 }
 ​```
 
-📎 https://editor.p5js.org/PoliMujica/sketches/4lzOYE8KL
+ https://editor.p5js.org/PoliMujica/sketches/4lzOYE8KL
 
 ### 2. Botones reales en la pantalla
 
@@ -159,7 +159,7 @@ function cambiarEstado() {
 }
 ​```
 
-📎 https://editor.p5js.org/PoliMujica/sketches/peTm3oGty
+ https://editor.p5js.org/PoliMujica/sketches/peTm3oGty
 
 ### 3. Zonas de clic (botones dibujados con rect o ellipse)
 
@@ -175,7 +175,7 @@ function mousePressed() {
 }
 ​```
 
-📎 https://editor.p5js.org/PoliMujica/sketches/iw-gjFhK8
+ https://editor.p5js.org/PoliMujica/sketches/iw-gjFhK8
 
 ### 4. Interacciones automáticas (por tiempo)
 
@@ -188,7 +188,7 @@ if (estado === 0 && millis() > 3000) {
 }
 ​```
 
-📎 https://editor.p5js.org/PoliMujica/sketches/_AunxbPWQ
+ https://editor.p5js.org/PoliMujica/sketches/_AunxbPWQ
 
 ---
 
@@ -223,7 +223,7 @@ function draw() {
 }
 ​```
 
-📎 https://editor.p5js.org/PoliMujica/sketches/PhkuD7kWU
+ https://editor.p5js.org/PoliMujica/sketches/PhkuD7kWU
 
 ### Ejemplos cámara interactiva
 
