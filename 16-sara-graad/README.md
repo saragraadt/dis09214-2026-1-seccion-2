@@ -264,7 +264,8 @@ Movimiento estudiantil y social que visibilizó masivamente desigualdades estruc
 ### Convención Constitucional (2021)
 Fue el primer órgano constituyente del mundo elegido con paridad de género.
 ---
-# *Diagrama de Flujo*  
+  # *Diagrama de Flujo en markDown*
+<img width="2641" height="6059" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/ca16793d-bbdd-4539-9c14-1a11e36ed260" />
 
 # *Link al sketch en p5.js en formato editable*  
 https://editor.p5js.org/saragraadt/sketches/jv2S_lxvP
