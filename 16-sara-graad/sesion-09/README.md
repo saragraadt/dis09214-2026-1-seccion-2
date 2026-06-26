@@ -198,7 +198,7 @@ if (estado === 0 && millis() > 3000) {
 
 ### createCapture(VIDEO);
 
-📎 Referencia: https://p5js.org/reference/p5/createCapture/
+ Referencia: https://p5js.org/reference/p5/createCapture/
 
 1. **Crear la variable para la captura:** declarar una variable global que guardará el flujo de video de la cámara web.
 2. **Inicializar la cámara en `function setup()`:** usamos el comando especial `createCapture(VIDEO)`, que le pide permiso al navegador para encender la cámara del computador. También definimos el tamaño con `captura.size(x,y);` y es muy importante agregar `captura.hide();` para esconder el video que HTML pone abajo por defecto.
